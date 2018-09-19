@@ -1,2 +1,7 @@
 node_modules
 package-lock.json
+.nyc_output
+.scannerwork
+coverage
+lighthouse-report.html
+mochawesome-report
